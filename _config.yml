@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/#tickets", text: "Entradas"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
  - {permalink: "/schedule", text: "Agenda"}
- - {permalink: "/#location-tbc", text: "¿Dónde?"}
+ - {permalink: "/#location-map", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
@@ -75,9 +75,9 @@ eventAddressLocality: "Isla de la Cartuja"
 eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41092"
 eventAddressCountry: "España"
-eventStartTime: "2016-03-12T09:30"
+eventStartTime: "2017-02-18T09:30"
 eventDoorTime: "09:30"
-eventEndTime: "2016-03-12T18:00"
+eventEndTime: "2017-02-18T18:00"
 readableDate: "Sábado 18 de Febrero 2017"
 eventPlaceCoordinates: "37.404639,-6.0087697"
 mapCenterCoordinates: "37.404639,-6.0087697"
@@ -86,7 +86,7 @@ locationTbc: "Por confirmar"
 
 # Partners Block
 organizersTitle: "Organizan"
-partnersTitle:
+partnersTitle: "Patrocinan"
 partnersC4sponsorsButton: "Únete a nosotros"
 c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
 

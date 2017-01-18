@@ -1,8 +1,8 @@
--
-  group: "Partners"
-  elements: 
+#-
+#  group: "Partners"
+#  elements:
 #    - {name: "Evoxon", description: "¡Organízate y Vende!", link: "http://www.evoxon.com/", imageUrl: "evoxon.jpg", width: "360px"}
-    - {name: "CPIIA", description: "Colegio Profesional de Ingenieros en Informática de Andalucía", link: "http://cpiiand.es/", imageUrl: "logo_CPIIA.jpg", width: "360px"}
+#    - {name: "CPIIA", description: "Colegio Profesional de Ingenieros en Informática de Andalucía", link: "http://cpiiand.es/", imageUrl: "logo_CPIIA.jpg", width: "360px"}
 -
   group: "Colaboran"
   elements:
