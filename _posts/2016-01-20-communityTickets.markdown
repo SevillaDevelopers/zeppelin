@@ -18,7 +18,7 @@ Resumiendo, la cosa funciona así para el comprador:
 
 Esperamos así no tener más ese tipo de conversación.
 
-ARRIBA LA COMUNIDAD DE SEVILLA!!!!!
+VIVA LA COMUNIDAD DE SEVILLA!!!!!
 
 ###¿Cómo puedo solicitar una entrada pendiente?
 Escríbenos un [correo](mailto:contacto@sevilladevelopers.com) diciendo que te interesaria una pendiente y en cuanto haya alguna disponible te la haremos llegar.
