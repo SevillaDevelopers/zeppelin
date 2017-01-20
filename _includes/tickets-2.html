@@ -13,6 +13,9 @@
 							{% if ticketsOffer.additionalInfo != null %}
 								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
 							{% endif %}
+							{% if ticketsOffer.additionalInfo2 != null %}
+								<span class="ticket-additional-info"><a class="{% if ticketsOffer.additionalInfo2.permalink != null and page.permalink == ticketsOffer.additionalInfo2.permalink %}current{% endif %}"  href="{% if ticketsOffer.additionalInfo2.permalink != null %} {{ ticketsOffer.additionalInfo2.permalink | prepend: site.baseurl }} {% else %} {{ ticketsOffer.additionalInfo2.link }} {% endif %}" {% if ticketsOffer.additionalInfo2.link != null %}target="_blank"{% endif %}>{{ ticketsOffer.additionalInfo2.text}}</a></span>
+							{% endif %}
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
 								<span class="ticket-additional-info">Disponibles hasta el {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} </span>

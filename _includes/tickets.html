@@ -15,7 +15,11 @@
 					<div class="pricing-content">
 						<ul>
 							{% for listItem in ticketsOffer.ticketContentList %}
-							<li>{{ listItem }}</li>
+								{% if listItem.permalink != null %}
+									<li><a class="{% if listItem.permalink != null and page.permalink == listItem.permalink %}current{% endif %}"  href="{% if listItem.permalink != null %} {{ listItem.permalink | prepend: site.baseurl }} {% else %} {{ listItem.link }} {% endif %}" {% if listItem.link != null %}target="_blank"{% endif %}>{{ listItem.text}}</a></li>
+								{% else %}
+									<li>{{ listItem }}</li>
+								{% endif %}
 							{% endfor %}
 						</ul>
 						{% if ticketsOffer.soldOut == true %}
