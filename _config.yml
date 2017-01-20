@@ -122,8 +122,8 @@ ticketsOffers:
   ticketsNumber: "25"
   buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
   buyButtonText: "Apoya a la comunidad"
-  additionalInfo: "Al comprar esta entrada, estas permitiendo que otra persona que no se lo puede permitir acceda a la conferencia <a href='blog/communityTickets/'>Más info</a>"
-  ticketContentList: [ "Porque la comunidad es genial", "Para que nadie se quede sin venir", "<a href='blog/communityTickets/'>Más info</a>"]
+  additionalInfo: "Al comprar esta entrada, estas permitiendo que otra persona que no se lo puede permitir acceda a la conferencia <a href='/blog/communityTickets/'>Más info</a>"
+  ticketContentList: [ "Porque la comunidad es genial", "Para que nadie se quede sin venir", "<a href='/blog/communityTickets/'>Más info</a>"]
   validFrom: "2017-01-19T23:59"
   validThrough: "2017-02-16T12:00"
   disabled: false
