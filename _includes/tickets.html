@@ -24,7 +24,7 @@
 						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 						{% else %}
 		           		{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-						<span class="button disabled fallback">Taquillas cerradas. Nos vemos en la próxima edición</span>
+						<span class="button disabled fallback">{{ ticketsOffer.disabledText }}</span>
 						{% endif %}
 					</div>
 				</div>

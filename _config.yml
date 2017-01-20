@@ -15,6 +15,7 @@ email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
 url: "http://www.sevilladevelopers.com/"
+permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
 googleAnalyticsSiteUrl: "gdgsevilla.github.io"
@@ -39,7 +40,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/#tickets", text: "Entradas"}
+ - {permalink: "/#tickets", text: "Entradas"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
  - {permalink: "/schedule", text: "Agenda"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
@@ -53,8 +55,7 @@ eventDate: "Sábado, 18 de Febrero, 2017"
 typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-#   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
-   - {permalink: "/schedule", text: "Ya están confirmadas las charlas!"}
+   - {permalink: "/#tickets", text: "Compra YA tu entrada"}
 
 
 # Rockstar Speakers Block
@@ -93,40 +94,60 @@ c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
 # Tickets Block
 tweetsFeedImage: "twitter-feed.png"
 ticketsTitle: "Entradas"
-ticketsInfo: "La entrada solo es válida para la sesión indicada"
+ticketsTitle2: "Desglose de las Entradas"
+ticketsInfo: "Al precio de las entradas hay que añadirle las comisiones de Ticketea. Todas las entradas incluyen el legendario almuerzo de la edición anterior, WOHOOOOOOO"
 ticketsOffers:
 
 -
   name: "Early Bird"
-  price: "5"
+  price: "8"
   priceCurrency: "EUR"
-  ticketsNumber: "75"
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopersconf/"
+  ticketsNumber:
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "¡Sólo hasta el 29 de Febrero!"]
-  disabled: true
-  validFrom: "2016-02-15T12:30"
-  validThrough: "2016-02-29T23:59"
-  soldOut: true
+  ticketContentList: [ "Luego te arrepientes", "Descuentazo", "¡Sólo hasta el 3 de Febrero!"]
+  disabled: false
+  validFrom: "2017-01-19T23:59"
+  validThrough: "2017-02-03T23:59"
+  soldOut: false
   soldOutText: "Agotadas!"
   ribbon: "EOI"
+  featured: true
 
 -
-  name: "Last chance"
-  price: "10"
+  name: "Community"
+  price: "15"
   priceCurrency: "EUR"
-  ticketsNumber: "75"
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopersconf/"
-  buyButtonText: "Es tu última oportunidad"
-  additionalInfo: ""
-  ticketContentList: [ "Mantenemos el precio de la edición anterior","Para los rezagados", "No te quedes sin la tuya"]
-  validFrom: "2016-03-01T00:00"
-  validThrough: "2016-03-11T08:00"
-  disabled: true
+  ticketsNumber: "25"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
+  buyButtonText: "Apoya a la comunidad"
+  additionalInfo: "Al comprar esta entrada, estas permitiendo que otra persona que no se lo puede permitir acceda a la conferencia <a href='blog/communityTickets/'>Más info</a>"
+  ticketContentList: [ "Porque la comunidad es genial", "Para que nadie se quede sin venir", "<a href='blog/communityTickets/'>Más info</a>"]
+  validFrom: "2017-01-19T23:59"
+  validThrough: "2017-02-16T12:00"
+  disabled: false
   soldOut: false
   soldOutText: "Agotadas!"
   featured: true
+  ribbon: "Community"
+
+-
+  name: "Last Minute"
+  price: "20"
+  priceCurrency: "EUR"
+  ticketsNumber: "75"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
+  buyButtonText: "Es tu última oportunidad"
+  additionalInfo: ""
+  ticketContentList: [ "¿Otra vez se te han pasado las Early?","Para los rezagados", "No te quedes sin la tuya"]
+  validFrom: "2017-02-04T00:00"
+  validThrough: "2017-02-16T12:00"
+  disabled: true
+  soldOut: false
+  soldOutText: "Agotadas!"
+  featured: false
+  disabledText: "A la venta el 4 de Febrero"
 
 
 # Footer
@@ -156,6 +177,11 @@ footerBlocks:
   title: "Ediciones previas"
   links:
    - {link: "http://old.sevilladevelopers.com", text: "Primera edición"}
+
+# Blog
+blogTitle: "Últimas noticias"
+blogCommentsEnabled: false
+discusShortName: "sdc3"
 
 # About
 aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
