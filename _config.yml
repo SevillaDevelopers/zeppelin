@@ -110,10 +110,10 @@ ticketsOffers:
   disabled: false
   validFrom: "2017-01-19T23:59"
   validThrough: "2017-02-03T23:59"
-  soldOut: false
+  soldOut: true
   soldOutText: "Agotadas!"
   ribbon: "EOI"
-  featured: true
+#  featured: true
 
 -
   name: "Community"
@@ -128,9 +128,9 @@ ticketsOffers:
   validFrom: "2017-01-19T23:59"
   validThrough: "2017-02-16T12:00"
   disabled: false
-  soldOut: false
+  soldOut: true
   soldOutText: "Agotadas!"
-  featured: true
+#  featured: false
   ribbon: "Community"
 
 -
@@ -142,13 +142,13 @@ ticketsOffers:
   buyButtonText: "Es tu última oportunidad"
   additionalInfo: ""
   ticketContentList: [ "¿Otra vez se te han pasado las Early?","Para los rezagados", "No te quedes sin la tuya"]
-  validFrom: "2017-02-04T00:00"
+  validFrom: "2017-02-06T01:00"
   validThrough: "2017-02-16T12:00"
   disabled: true
   soldOut: false
   soldOutText: "Agotadas!"
   featured: false
-  disabledText: "A la venta el 4 de Febrero"
+  disabledText: "A la venta el 6 de Febrero"
 
 
 # Footer
