@@ -55,7 +55,7 @@ eventDate: "Sábado, 18 de Febrero, 2017"
 typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "Compra YA tu entrada"}
+   - {permalink: "/#tickets", text: "Últimas EARLY BIRDS"}
 
 
 # Rockstar Speakers Block
@@ -99,23 +99,6 @@ ticketsInfo: "Al precio de las entradas hay que añadirle las comisiones de Tick
 ticketsOffers:
 
 -
-  name: "Early Bird"
-  price: "8"
-  priceCurrency: "EUR"
-  ticketsNumber:
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
-  buyButtonText: "Aprovecha!"
-  additionalInfo: ""
-  ticketContentList: [ "Luego te arrepientes", "Descuentazo", "¡Sólo hasta el 3 de Febrero!"]
-  disabled: false
-  validFrom: "2017-01-19T23:59"
-  validThrough: "2017-02-03T23:59"
-  soldOut: true
-  soldOutText: "Agotadas!"
-  ribbon: "EOI"
-#  featured: true
-
--
   name: "Community"
   price: "15"
   priceCurrency: "EUR"
@@ -134,6 +117,23 @@ ticketsOffers:
   ribbon: "Community"
 
 -
+  name: "Early Bird"
+  price: "8"
+  priceCurrency: "EUR"
+  ticketsNumber:
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
+  buyButtonText: "Aprovecha!"
+  additionalInfo: ""
+  ticketContentList: [ "¡Relanzamiento!", "Descuentazo", "¡Último lote!"]
+  disabled: false
+  validFrom: "2017-01-19T23:59"
+  validThrough: "2017-02-12T23:59"
+  soldOut: false
+  soldOutText: "Agotadas!"
+  ribbon: "Últimas"
+  featured: true
+
+-
   name: "Last Minute"
   price: "20"
   priceCurrency: "EUR"
@@ -142,13 +142,13 @@ ticketsOffers:
   buyButtonText: "Es tu última oportunidad"
   additionalInfo: ""
   ticketContentList: [ "¿Otra vez se te han pasado las Early?","Para los rezagados", "No te quedes sin la tuya"]
-  validFrom: "2017-02-06T01:00"
+  validFrom: "2017-02-13T01:00"
   validThrough: "2017-02-16T12:00"
   disabled: true
   soldOut: false
   soldOutText: "Agotadas!"
   featured: false
-  disabledText: "A la venta el 6 de Febrero"
+  disabledText: "Retrasadas al 13 de Febrero"
 
 
 # Footer
