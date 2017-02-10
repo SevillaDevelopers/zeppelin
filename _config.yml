@@ -55,7 +55,7 @@ eventDate: "Sábado, 18 de Febrero, 2017"
 typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "Últimas EARLY BIRDS"}
+   - {permalink: "/#tickets", text: "¡Entradas agotadas!"}
 
 
 # Rockstar Speakers Block
@@ -89,7 +89,7 @@ locationTbc: "Por confirmar"
 organizersTitle: "Organizan"
 partnersTitle: "Patrocinan"
 partnersC4sponsorsButton: "Únete a nosotros"
-c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
+c4sponsorsUrl: "https://www.facebook.com/groups/sevilladevelopers/"
 
 # Tickets Block
 tweetsFeedImage: "twitter-feed.png"
@@ -128,7 +128,7 @@ ticketsOffers:
   disabled: false
   validFrom: "2017-01-19T23:59"
   validThrough: "2017-02-12T23:59"
-  soldOut: false
+  soldOut: true
   soldOutText: "Agotadas!"
   ribbon: "Últimas"
   featured: true
@@ -145,10 +145,10 @@ ticketsOffers:
   validFrom: "2017-02-13T01:00"
   validThrough: "2017-02-16T12:00"
   disabled: true
-  soldOut: false
-  soldOutText: "Agotadas!"
-  featured: false
-  disabledText: "Retrasadas al 13 de Febrero"
+  soldOut: true
+  soldOutText: "Aforo completado"
+#  featured: false
+  disabledText: "Aforo completado"
 
 
 # Footer
