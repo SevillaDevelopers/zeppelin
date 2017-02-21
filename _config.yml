@@ -55,7 +55,7 @@ eventDate: "Sábado, 18 de Febrero, 2017"
 typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "¡Entradas agotadas!"}
+   - {permalink: "/", text: "Nos vemos en la próxima"}
 
 
 # Rockstar Speakers Block

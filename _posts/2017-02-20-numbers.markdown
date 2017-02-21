@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Números"
+date:   2017-02-20 08:00:00
+isStaticPost: true
+---
+
+Teniendo en cuenta que las SevillaDevelopersConf **NO** tienen animo de lucro (si habéis oído rumores de cualquier otra cosa, aquí tenéis la confirmación) y que nos mola la transparencia, vamos a contaros como ha ido eso de los dineros de la tercera edición:
+
+1. Los ponentes (una vez mas) han dado sus charlas de forma totalmente altruista. Lo mas parecido a remuneración ha sido el invitarlos a comer del mismo menú que el resto de los asistentes.
+
+1. El espacio se nos cede de forma totalmente gratuita. Muchisisisismas gracias al personal de seguridad (hola Jesus!!) que no solo se han comportado de forma excepcional si no que han tenido que echar horas extras para que se pudiera celebrar el evento.
+
+1. La comida ha costado 7 euros  (+ IVA) por persona y también hay que decir que abrieron el local SOLAMENTE para nosotros y nosotras. Hace un total de 770 ( + IVA)
+
+1. Había 3 tipos de entradas como espero bien sepáis: Early birds (8 + ticketea), Community (15 + ticktea) y Last minute (20 + ticktea). De las que se ha vendido, en el mismo orden: 70, 15, 0. Lo que se nos hace un total de euros 648.76 euros (+ IVA).
+
+1. Los incredibols de Rojomorgan nos han donado 60 euros.
+
+
+Así que haciendo números nos queda:
+
+|Qué|||Cuánto|
+|---|---|---:|---:|
+|Ponentes|||0.00|
+|Espacio|||0.00|
+|Comida|||-770.00|
+|Entradas|||648.76|
+|Donaciones|||60.00|
+|||||
+||Total||-62.00|
+
+
+##### Unas alegres pérdidas de *62* euros.
+
+
+Por supuesto que se pueden mejorar muchas cosas y esperamos conseguirlo en las próximas ediciones (porque, sorprendentemente, nos hemos quedado con ganas de más).
+
+
+Si alguien no se cree los números, tiene el perfecto derecho, que nos invite a un cafelito y sacamos las facturas :-)
