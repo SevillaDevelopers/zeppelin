@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SevillaDevelopers "
 email: "contacto@gdgsevilla.com"
 description: "Sesiones para aprender juntos"
-baseurl: ""
-url: "http://www.sevilladevelopers.com/"
+baseurl: "/sdc1"
+url: "http://old.sevilladevelopers.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
 googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
@@ -53,7 +53,7 @@ eventDate: "Sábado, 17 de Octubre, 2015"
 typeoutTextValues: '"Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "¡Entradas agotadas!"}
+   - {link: "http://old.sevilladevelopers.com", text: "¡Nos vemos en la próxima!"}
 
 
 # Rockstar Speakers Block
