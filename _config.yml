@@ -32,30 +32,29 @@ organizerLink: "https://www.facebook.com/groups/sevilladevelopers/"
 
 # Head
 metaKeywords: "conferencia, evento, gdg, jug, tecnologia, developers, sevilla, desarrollo, event"
-twitterAccount: "#SVQDEV"
+twitterAccount: "@SevillaDevelope"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/#tickets", text: "Entradas"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
- - {permalink: "/schedule", text: "Agenda"}
- - {permalink: "/#location-map", text: "¿Dónde?"}
- - {permalink: "/#partners", text: "Organizan"}
+# - {permalink: "/", text: "Home"}
+# - {permalink: "/#tickets", text: "Entradas"}
+# - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
+# - {permalink: "/schedule/", text: "Agenda"}
+# - {permalink: "/#location-map", text: "¿Dónde?"}
+# - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroMain: "Sevilla Developers Conf 3 #SVQDC"
-heroTitle: "Porque aquí <b>ya empiezan</b> a hacerse cosas de <typeout>"
-eventDate: "Sábado, 18 de Febrero, 2017"
-typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
-typeoutFallback: "tecnología"
-heroButtons:
-   - {permalink: "/", text: "Nos vemos en la próxima"}
+#heroMain: "Sevilla Developers Conf 4 #SVQDC"
+heroTitle: "<typeout>"
+eventDate: "Sábado, 13 de Mayo, 2017"
+typeoutTextValues: '"./gradlew build version4", "go build SDC4", "refresh PHP", "gem install charlas", "publish draft WordPress", "install XamarinTalk -d Sevilla", "git clone drinks"'
+typeoutFallback: "Compilando charlas, por favor espere..."
+#heroButtons:
+#   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
 
 
 # Rockstar Speakers Block
@@ -76,9 +75,9 @@ eventAddressLocality: "Isla de la Cartuja"
 eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41092"
 eventAddressCountry: "España"
-eventStartTime: "2017-02-18T09:30"
+eventStartTime: "2017-02-18T09:00"
 eventDoorTime: "09:30"
-eventEndTime: "2017-02-18T18:00"
+eventEndTime: "2017-02-18T19:00"
 readableDate: "Sábado 18 de Febrero 2017"
 eventPlaceCoordinates: "37.404639,-6.0087697"
 mapCenterCoordinates: "37.404639,-6.0087697"
@@ -182,7 +181,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas noticias"
 blogCommentsEnabled: false
-discusShortName: "sdc3"
+discusShortName: "sdc4"
 
 # About
 aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
