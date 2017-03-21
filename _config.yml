@@ -13,25 +13,25 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SevillaDevelopersConf "
 email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
-baseurl: ""
-url: "http://www.sevilladevelopers.com/"
+baseurl: "/sdc2"
+url: "http://old.sevilladevelopers.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
-googleAnalyticsSiteUrl: "gdgsevilla.github.io"
+googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
 siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 
 # Organizer Info
-organizerName: "GDG Sevilla"
-organizerAlternateName: "Google Developer Group Sevilla"
-organizerDescription: "Grupo sin ánimo de lucro cuyo objetivo es el de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías proporcionadas por Google."
-organizerEmail: "contacto@gdgsevilla.com"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://plus.google.com/117186888160178861350/about"
+organizerName: "Sevilla Deverlopers"
+organizerAlternateName: "Grupo de desarrolladores y desarrolladoras en Sevilla"
+organizerDescription: "Grupo sin ánimo de lucro cuyo objetivo es el de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías de la información"
+organizerEmail: "contacto@sevilladevelopers.com"
+organizerLogo: ""
+organizerLink: "https://www.facebook.com/groups/sevilladevelopers/"
 
 # Head
-metaKeywords: "android, evento, gdg, google, developers, sevilla, desarrollo, event"
-twitterAccount: "@GDGSevilla"
+metaKeywords: "conferencia, evento, gdg, jug, tecnologia, developers, sevilla, desarrollo, event"
+twitterAccount: "@SevillaDevelope"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -53,7 +53,7 @@ eventDate: "Sábado, 12 de Marzo, 2016"
 typeoutTextValues: '"Java", "Go", "Android", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
+   - {link: "http://old.sevilladevelopers.com", text: "¡Nos vemos en la próxima!"}
 
 
 # Rockstar Speakers Block
@@ -64,7 +64,6 @@ rockstarSpeakersButtonText: "Más información"
 
 # Speakers List Block
 showSessions: true
-
 
 # Location Block
 locationBlockTitle: "Dónde?"
@@ -94,7 +93,6 @@ tweetsFeedImage: "twitter-feed.png"
 ticketsTitle: "Entradas"
 ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
-
 -
   name: "Early Bird"
   price: "5"
@@ -154,7 +152,7 @@ footerBlocks:
  -
   title: "Ediciones previas"
   links:
-   - {link: "http://old.sevilladevelopers.com", text: "Primera edición"}
+   - {link: "http://old.sevilladevelopers.com/sdc1", text: "Primera edición"}
 
 # About
 aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
