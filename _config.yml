@@ -13,12 +13,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SevillaDevelopersConf "
 email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
-baseurl: ""
-url: "http://www.sevilladevelopers.com/"
-permalink: "/blog/:title"
+baseurl: "/sdc3"
+url: "http://old.sevilladevelopers.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
-googleAnalyticsSiteUrl: "gdgsevilla.github.io"
+googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
 siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 
@@ -32,7 +31,7 @@ organizerLink: "https://www.facebook.com/groups/sevilladevelopers/"
 
 # Head
 metaKeywords: "conferencia, evento, gdg, jug, tecnologia, developers, sevilla, desarrollo, event"
-twitterAccount: "#SVQDEV"
+twitterAccount: "@SevillaDevelope"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -55,7 +54,7 @@ eventDate: "Sábado, 18 de Febrero, 2017"
 typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/", text: "Nos vemos en la próxima"}
+   - {link: "http://old.sevilladevelopers.com", text: "¡Nos vemos en la próxima!"}
 
 
 # Rockstar Speakers Block
@@ -177,7 +176,8 @@ footerBlocks:
  -
   title: "Ediciones previas"
   links:
-   - {link: "http://old.sevilladevelopers.com", text: "Primera edición"}
+   - {link: "http://old.sevilladevelopers.com/sdc1", text: "Primera edición"}
+   - {link: "http://old.sevilladevelopers.com/sdc2", text: "Segunda edición"}
 
 # Blog
 blogTitle: "Últimas noticias"
