@@ -55,7 +55,7 @@ typeoutTextValues: '"TensorFlow", "Java", "Go", "Microservicios", "PHP", "Swift"
 typeoutFallback: "tecnología"
 heroButtons:
 #   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
-   - {permalink: "/schedule", text: "Ya están confirmadas las charlas!"}
+   - {permalink: "/schedule", text: "Ya tenemos charlas!"}
 
 
 # Rockstar Speakers Block
