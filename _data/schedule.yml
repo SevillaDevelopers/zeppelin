@@ -1,29 +1,44 @@
 -
-  date: "2017-02-18"
-  dateReadable: "18 de Febrero"
+  date: "2017-05-17"
+  dateReadable: "17 de Mayo"
   tracks:
-    - {title: "EOI Andalucía", color: "#90be4e"}
+    - {title: "Por confirmar", color: "#90be4e"}
   timeslots:
 
     - {
-    	startTime: "09:30",
-    	endTime: "09:55",
+    	startTime: "08:00",
+    	endTime: "08:55",
     	sessionIds: [503]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:50",
+    	startTime: "09:00",
+    	endTime: "09:20",
     	sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [002]
+    	startTime: "09:25",
+    	endTime: "10:15",
+    	sessionIds: [002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "12:50",
-    	sessionIds: [003]
+        startTime: "10:20",
+        endTime: "11:10",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:40",
+    	sessionIds: [306]
+    }
+    - {
+    	startTime: "11:45",
+    	endTime: "12:35",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "12:40",
+    	endTime: "13:30",
+    	sessionIds: [005]
     }
     - {
     	startTime: "13:30",
@@ -33,15 +48,21 @@
     - {
     	startTime: "14:30",
     	endTime: "15:20",
-    	sessionIds: [004]
+    	sessionIds: [309]
     }
     - {
-    	startTime: "15:30",
-    	endTime: "16:20",
-    	sessionIds: [005]
+
+    		startTime: "15:25",
+    	endTime: "16:15",
+    	sessionIds: [006]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "17:30",
+    	startTime: "16:20",
+    	endTime: "17:10",
+    	sessionIds: [006]
+    }
+    - {
+    	startTime: "17:10",
+    	endTime: "18:00",
     	sessionIds: [307]
     }

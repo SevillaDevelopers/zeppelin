@@ -15,10 +15,9 @@ email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
 url: "http://www.sevilladevelopers.com/"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
-googleAnalyticsSiteUrl: "gdgsevilla.github.io"
+googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
 siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 
@@ -39,22 +38,24 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
-# - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Home"}
 # - {permalink: "/#tickets", text: "Entradas"}
-# - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
-# - {permalink: "/schedule/", text: "Agenda"}
-# - {permalink: "/#location-map", text: "¿Dónde?"}
-# - {permalink: "/#partners", text: "Organizan"}
+# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
+ - {permalink: "/schedule", text: "Agenda"}
+ - {permalink: "/#location-tbc", text: "¿Dónde?"}
+ - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroMain: "Sevilla Developers Conf 4 #SVQDC"
-heroTitle: "<typeout>"
+heroMain: "Sevilla Developers Conf 4 #SVQDC"
+heroTitle: "Porque aquí <b>se hacen muchas</b> cosas de <typeout>"
 eventDate: "Sábado, 13 de Mayo, 2017"
-typeoutTextValues: '"./gradlew build version4", "go build SDC4", "refresh PHP", "gem install charlas", "publish draft WordPress", "install XamarinTalk -d Sevilla", "git clone drinks"'
-typeoutFallback: "Compilando charlas, por favor espere..."
-#heroButtons:
+typeoutTextValues: '"TensorFlow", "Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
+typeoutFallback: "tecnología"
+heroButtons:
 #   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
+   - {permalink: "/schedule", text: "Ya están confirmadas las charlas!"}
 
 
 # Rockstar Speakers Block
@@ -76,9 +77,9 @@ eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41092"
 eventAddressCountry: "España"
 eventStartTime: "2017-02-18T09:00"
-eventDoorTime: "09:30"
-eventEndTime: "2017-02-18T19:00"
-readableDate: "Sábado 18 de Febrero 2017"
+eventDoorTime: "08:00"
+eventEndTime: "2017-02-18T18:00"
+readableDate: "Sábado 13 de Mayo 2017"
 eventPlaceCoordinates: "37.404639,-6.0087697"
 mapCenterCoordinates: "37.404639,-6.0087697"
 mapMobileCenterCoordinates: "37.404639,-6.0087697"
@@ -86,7 +87,7 @@ locationTbc: "Por confirmar"
 
 # Partners Block
 organizersTitle: "Organizan"
-partnersTitle: "Patrocinan"
+partnersTitle:
 partnersC4sponsorsButton: "Únete a nosotros"
 c4sponsorsUrl: "https://www.facebook.com/groups/sevilladevelopers/"
 
@@ -176,7 +177,9 @@ footerBlocks:
  -
   title: "Ediciones previas"
   links:
-   - {link: "http://old.sevilladevelopers.com", text: "Primera edición"}
+   - {link: "http://old.sevilladevelopers.com/sdc1", text: "Primera edición"}
+   - {link: "http://old.sevilladevelopers.com/sdc2", text: "Segunda edición"}
+   - {link: "http://old.sevilladevelopers.com/", text: "Tercera edición"}
 
 # Blog
 blogTitle: "Últimas noticias"

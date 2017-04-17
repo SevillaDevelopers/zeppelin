@@ -1,70 +1,56 @@
 - 
+  id: 1
+  name: "SevillaDevelopers"
+  surname: ""
+  thumbnailUrl: mouse90.svg
+  rockstar: false
+
+-
   id: 3
-  name: "Macarena (Maki)"
-  surname: "Madero"
-  company: "Tramallol"
-  title: "Technical Lead Architec"
-  bio: "Trabaja como programadora web en la cooperativa Tramallol, haciendo internet como un proceso participativo, promoviendo el acceso y la capacitación digital de la ciudadanía y el desarrollo y
-  difusión de software libre."
-  thumbnailUrl: maki.jpg
+  name: "Trisha"
+  surname: "Gee"
+  company: "JetBrains"
+  title: "Technical Advocate"
+  bio: "Trisha has developed Java applications for a range of industries, including finance, manufacturing, software and non-profit, for companies of all sizes.  She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha is a leader of the Sevilla Java User Group and a Java Champion, she believes healthy communities and sharing ideas help us to learn from mistakes and build on successes. As a Developer Advocate for JetBrains, she gets to share all the interesting things she’s constantly discovering."
+  thumbnailUrl: trisha.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/pingmujeres"}
+    - {name: "twitter", link: "https://twitter.com/trisha_gee"}
 
 -
   id: 4
-  name: "Dr. Pedro J."
-  surname: "Molina"
-  company: "Metadev"
-  title: "Founder"
-  bio: "Pedro J. es Doctor en Informática especializado en modelado y generación de código. Desde Metadev construye herramientas para microservicios y proporciona consultoría y formación en Microservicios,
-  Typescript, NodeJS, AngularJS2, MongoDB y Docker. Previamente ha trabajado en empresas de producto como CTO y Director de I+D en Icinetic y como Arquitecto de Software en Capgemini.
-  Le gusta remangarse a diario para escribir código."
-  thumbnailUrl: pjmolina.jpg
+  name: "Gema"
+  surname: "Parreño Piqueras"
+  company: "BBVA | ETSAM"
+  title: "Data Scientist"
+  bio: "Gema Parreño se centra en el diseño de productos digitales enfocada en Inteligencia Artificial desde hace dos años con experiencia en procesamiento natural del lenguaje y visión artificial .
+        Desarrolla redes neuronales para proyectos de ingeniería inversa."
+  thumbnailUrl: gema.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/pmolinam"}
-    - {name: "Github", link: "https://github.com/pjmolina"}
-    - {name: "site", link: "https://metadev.pro"}
+    - {name: "twitter", link: "https://twitter.com/SoyGema"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gemaparreno/"}
 -
   id: 5
-  name: "Ana"
-  surname: "Trujillo Ruiz"
-  company: "Genera Games"
-  title: "Video Games Quality Assurance"
-  bio: "Ana Trujillo es una enamorada del Pixel Art y asistente activa de las quedadas del grupo local de Sevilla de Pixels and Coffee,
-  viene a compartir con nosotros experiencias y procesos de calidad en el sector de los videojuegos."
-  thumbnailUrl: ana.jpg
+  name: "Fina"
+  surname: "Pérez"
+  company: "Tuenti"
+  title: "Tech Lead"
+  bio: "Fina Pérez, ingeniera informática, siempre se ha dedicado a la rama de la tecnología móvil. Su afán por viajar y su pasión por los smartphones le han dado la oportunidad de trabajar en distintos sitio de Europa, como Budapest o Ginebra. Desde hace cuatro años y medio, forma parte de Tuenti, trabajando en la aplicación móvil, haciendo tanto Android como iOS, aunque a veces se pasa al lado oscuro y hace web."
+  thumbnailUrl: fina.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/anaandtheants"}
+    - {name: "twitter", link: "https://twitter.com/finuka"}
 
 - 
   id: 6
-  name: "Javier"
-  surname: "Suárez Ruiz"
-  company: "Plain Concepts"
-  title: "Software Development Engineer"
-  bio: "Desarrollador, Microsoft MVP y coordinador de CartujaDotNet, grupo de usuarios .NET de Sevilla y de SVQXDG, grupo de desarrolladores Xamarin de Sevilla."
-  thumbnailUrl: javier.jpg
+  name: "José Manuel"
+  surname: "Pereira"
+  company: "JMPergar"
+  title: "Android Developer"
+  bio: "Android Developer and Kotlin Functional Programming Padawan. Con aproximadamente ocho años en el mundo del desarrollo de los cuales más de cinco dedicado al mundo del desarrollo móvil, pasando por empresas como Redbooth o Jobandtalent, actualmente me encuentro experimentando nuevos paradigmas y tecnologías."
+  thumbnailUrl: jmpergar.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/jsuarezruiz"}
-    - {name: "github", link: "https://github.com/jsuarezruiz"}
-
-
--
-  id: 7
-  name: "Julián"
-  surname: "Gómez"
-  company: "Leda MC"
-  title: "Director de Proyectos, Consultor Senior Productividad del Software"
-  bio: "Director de Proyectos y Servicios. Escribe. Ingeniero Informático. Profesionalmente ha ido evolucionando desde desarrollar software hasta dirigir proyectos, pasando por la gestión de servicios, aseguramiento de
-  la calidad, auditorías de productividad, consultoría de procesos, gestión de proveedores, consultoría de sourcing, PMO, innovación y alguna que otra cosita más. Siempre mirando de forma diferente.
-  La única constante el cambio."
-  thumbnailUrl: julian.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/fjuliangomez"}
-    - {name: "site", link: "http://fjuliangomez.com"}
-    - {name: "site", link: "http://www.laboratorioti.com"}
+    - {name: "twitter", link: "https://twitter.com/jmpergar"}
+    - {name: "site", link: "https://jmpergar.com/"}

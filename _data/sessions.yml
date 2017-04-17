@@ -1,15 +1,27 @@
 -
-  id: 307
-  title: "Networking y cierre de puertas"
+  id: 306
+  title: "Descanso"
   place: "Hall"
   service: true
-  description: "Aprovecha para intercambiar formas de contacto"
+  description: "Es el momento de un café o de estirar la mente con un paseo corto"
+-
+  id: 307
+  title: "Retrospectiva"
+  place: "Hall"
+  service: true
+  description: "Aprovecha parar decir lo que te ha gustado, lo que querrias cambiar y sugerir ideas"
 -
   id: 308
-  title: "Almuerzo y Networking"
+  title: "Almuerzo"
   place: "Hall"
   service: true
-  description: "Reponer fuerzas y conocer nuevas personas"
+  description: "Reponer fuerzas"
+-
+  id: 309
+  title: "Networking"
+  place: "Hall"
+  service: true
+  description: "Conocer nuevas personas, encuentra trabajo, descubre comunidades"
 -
   id: 503
   title: "Apertura de puertas y registro"
@@ -17,48 +29,55 @@
   service: true
 -
   id: 001
-  title: "El mito del Betatester"
-  description: "Durante la charla os pondréis en la piel de un betatester de videojuegos. Se contará qué puntos se atacan para buscar errores, cómo se gestiona la información con los departamentos de desarrollo,
-  herramientas utilizadas para el testing... en general el ciclo de cómo se gestionan los fallos desde que se encuentran hasta que se solucionan. Cómo determinar fallos críticos que bloquean la subida de las aplicaciones
-   a las store, conocer la demanda de pruebas que realizamos y cómo lidiar con el mantenimiento de aplicaciones que se encuentran en mantenimiento de updates periódicos."
+  title: "Keynote"
+  description: ""
   subtype: presentation
-  speakers: [5]
+  speakers: [1]
   language: Español
   complexity: "Intro"
 -
   id: 002
-  title: "Tecnologías para Microservicios. Un ejemplo sobre el stack MEAN"
-  description: "Microservicios: más allá del “vaporware” o moda que representan, hay principios sólidos y ventajas claras a la hora de aplicar este patrón de arquitectura a nuestros desarrollos. Repasaremos sus virtudes
-  y defectos sobre ejemplos reales sobre stack MEAN junto con tecnología y estándares disponibles para usarlos de forma efectiva como son Swagger o HAL y métodos de despliegue, escalado y operación con Docker."
+  title: "Career Advice for Programmers"
+  description: "Do you know how to remain a programmer? To avoid being “promoted” into positions away from technology and code? Did they teach you at university that you need social skills to be a good developer? What other skills do you need that aren't technical? Did you know that all development roles are not created equal? Is it true that moving jobs a lot is a Bad Thing?
+
+                In this session, Trisha Gee (Java Champion, 2015 MongoDB Master, 2016/2014/2012 JavaOne Rock Star & Technical Advocate for JetBrains) will share some lessons she learnt the hard way over nearly twenty years of managing her career as a Java developer. She'll talk about what's really important to developers when thinking about their careers, and give you tools for working out what your next steps are.
+
+                If nothing else, you’ll get to laugh at the (many) mistakes I’ve made in my search for The Perfect Job."
+  subtype: presentation
+  speakers: [3]
+  language: Inglés
+  complexity: "Intermedia"
+-
+  id: 003
+  title: "Introducción a la arquitectura de Tensorflow y caso de uso"
+  description: "Aplicación de redes neuronales y caso de uso.
+                 Ingeniería inversa : sistema límbico"
   subtype: presentation
   speakers: [4]
   language: Español
   complexity: "Intermedia"
 -
-  id: 003
-  title: "Abriendo el código"
-  description: "Compartiremos el conjunto de prácticas y herramientas puestas a funcionar en la constitución de Ping Programadoras, con la intención de facilitarnos el desarrollo de comunidades (también tecnológicas)
-  más sostenibles. Desde la óptica de la responsabilidad colectiva y considerando el género como una construcción performativa de la realidad, pondremos el acento en las afinidades frente a las diferencias identitarias."
-  subtype: presentation
-  speakers: [3]
-  language: Español
-  complexity: "Intermedia"
--
   id: 004
-  title: "Bienvenidos al mundo holográfico"
-  description: "¿Has oído hablar de HoloLens?, ¿probaste las posibilidades de la realidad aumentada?. Pásate por esta sesión para conocer Hololens, sus características, así como el desarrollo con Wave Engine viendo
-  algunas demos mostrando el nuevo mundo de posibilidades que nos facilitan los hologramas. ¿Crees que podemos crear el sistema solar en 45 min.?. Tendrás que asistir para averiguarlo."
+  title: "Tips & tricks to make an app adaptable to change"
+  description: "At Tuenti, we have to change a lot in a very short time. Redesigning the app and adapting it to the market every time, without loosing quality and doing it fast. With this talk, I'll show you all the things we've learned during that. And the good thing is that those tricks can be applied every where, not only in mobile!"
   subtype: presentation
-  speakers: [6]
+  speakers: [5]
   language: Español
   complexity: "Intermedia"
 -
   id: 005
-  title: "El Juego de Tronos de los Proyectos: Lo que debes saber para que tu Proyecto no termine en el Muro."
-  description: "¿Te suenan Lannister, Stark, Targaryen, Nieve? ¿Te suenan las Tierras de Poniente, los caminantes blancos, la guardia de la noche o el pueblo libre? Pues ellos saben mucho sobre Dirección de Proyectos y
-  eso es lo que te van a enseñar en esta charla ¡Qué tienes que saber para que tu proyecto no acabe en el muro! Spoiler: seguro que se pasaran algunos amigos como Tyrion, Joffrey, Daenerys, Eddard, Rob, ...
-  y alguna sorpresa más."
+  title: "The What Over The How (Another way on Android development with Kotlin)"
+  description: "Para un mismo problema existe más de una solución aunque a veces existen barreras tecnicas que nos impiden abordarlas. Esta presentación pretende mostrar como, gracias a Kotlin, se nos abren otras opciones a la hora de abordar los problemas, centrandonos en nuestros problemas particulares y delegando a un segundo plano problemas recurrentes como la gestión de errores o la concurrencia."
   subtype: presentation
-  speakers: [7]
-  language: Español
+  speakers: [6]
+  language: Español - Lebrija
   complexity: "Intermedia"
+-
+  id: 006
+  title: "TDB"
+  description: ""
+  subtype: presentation
+  speakers:
+  language:
+  complexity: "Intermedia"
+
