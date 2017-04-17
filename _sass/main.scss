@@ -41,3 +41,9 @@
 @import "partials/judges";
 @import "partials/prizes";
 @import "partials/hackathon-location";
+
+.lily-effect figcaption {    
+     width: auto;
+     background: rgba(58, 87, 149, 0.4);
+     min-width: 75%;
+ }
