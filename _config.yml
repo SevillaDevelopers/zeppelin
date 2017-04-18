@@ -14,7 +14,7 @@ title: "SevillaDevelopersConf "
 email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
-url: "http://www.sevilladevelopers.com/"
+url: "http://www.sevilladevelopers.com"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
 googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
@@ -32,9 +32,9 @@ organizerLink: "https://www.facebook.com/groups/sevilladevelopers/"
 # Head
 metaKeywords: "conferencia, evento, gdg, jug, tecnologia, developers, sevilla, desarrollo, event"
 twitterAccount: "@SevillaDevelope"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/share-GP-big.png"
+socialImageSrcTwitter: "/img/seo/share-TW-big.png"
+socialImageSrcFacebook: "/img/seo/share-FB-big.png"
 
 # Navigation
 navigationLinks:
