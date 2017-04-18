@@ -35,6 +35,7 @@ twitterAccount: "@SevillaDevelope"
 socialImageSrcGooglePlus: "/img/seo/share-GP-big.png"
 socialImageSrcTwitter: "/img/seo/share-TW-big.png"
 socialImageSrcFacebook: "/img/seo/share-FB-big.png"
+socialImageSrcFacebookWidth: "630"
 
 # Navigation
 navigationLinks:
