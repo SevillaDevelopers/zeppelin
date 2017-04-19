@@ -86,6 +86,12 @@ mapCenterCoordinates: "37.404639,-6.0087697"
 mapMobileCenterCoordinates: "37.404639,-6.0087697"
 locationTbc: "Por confirmar"
 
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "svqdc"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle:
