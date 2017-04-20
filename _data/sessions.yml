@@ -73,6 +73,22 @@
   language: Español - Lebrija
   complexity: "Intermedia"
 -
+  id: 007
+  title: "The enemies of continuous delivery"
+  description: "Are you trying to set up Continuous Delivery in your company and it’s being harder than expected? What do you really need to reach Continuous Delivery? You can achieve this based on best efforts, but
+  time is not infinite and this does not scale. How can you evolve your company to reach it? Avoid the enemies of Continuous Delivery:
+                <ul>
+                <li>Manual testing</li>
+                <li>Manual processes</li>
+                <li>Poor automated tests (unstable, slow and with bad scope of testing)</li>
+                <li>Lack of coordination</li>
+                <li>Bad communication</li>
+                <li>No clear responsibliities</li></ul>"
+  subtype: presentation
+  speakers: [7]
+  language: Español
+  complexity: "Intermedia"
+-
   id: 006
   title: "TBD"
   description: ""

@@ -54,3 +54,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/jmpergar"}
     - {name: "site", link: "https://jmpergar.com/"}
+-
+  id: 7
+  name: "Isa"
+  surname: "Mñ Vilacides"
+  company: "CloudBees"
+  title: "Software Testing & Quality Assurance"
+  bio: "Isa started her career as a developer, but ended up managing Quality Engineering teams which she has continued doing for the last nine years. Since then she has helped different companies to reach continuous
+  delivery by improving their development, testing and release processes through automation and risk analysis: the biggest Spanish social network Tuenti, a Rakuten video-on-demand service, the JIRA Cloud and Infrastructure Services divisions at Atlassian and currently CloudBees. She believes in giving back to the community and is therefore a frequent speaker at testing meet-ups like After Test and Agile Barcelona, and she has also spoken at international conferences such as Devops Days, itSMF and expoQA where she has also formed part of the selection committee."
+  thumbnailUrl: isa.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vilacides"}
