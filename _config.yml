@@ -44,7 +44,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
  - {permalink: "/schedule", text: "Agenda"}
- - {permalink: "/#location-tbc", text: "¿Dónde?"}
+ - {permalink: "/#location-map", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
@@ -77,9 +77,9 @@ eventAddressLocality: "Isla de la Cartuja"
 eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41092"
 eventAddressCountry: "España"
-eventStartTime: "2017-02-18T09:00"
+eventStartTime: "2017-05-13T09:00"
 eventDoorTime: "08:00"
-eventEndTime: "2017-02-18T18:00"
+eventEndTime: "2017-05-13T18:00"
 readableDate: "Sábado 13 de Mayo 2017"
 eventPlaceCoordinates: "37.404639,-6.0087697"
 mapCenterCoordinates: "37.404639,-6.0087697"
