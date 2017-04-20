@@ -165,7 +165,8 @@ footerBlocks:
    - {link: "http://http://www.meetup.com/SVQJUG", text: "SVQ JUG"}
    - {link: "https://plus.google.com/117186888160178861350/", text: "GDG Sevilla"}
    - {link: "http://nscoder-sev.tumblr.com/", text: "NSCoder Night Sevilla"}
-
+   - {link: "https://www.meetup.com/es-ES/Geoinquietos-Sevilla/", text: "GeoInquietos"}
+   - {link: "https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/", text: "Ping a Programadoras"}
  -
   title: "Contactar"
   links:
