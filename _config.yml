@@ -15,6 +15,7 @@ email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
 url: "http://www.sevilladevelopers.com"
+permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
 googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
@@ -40,7 +41,7 @@ socialImageSrcFacebookWidth: "630"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/#tickets", text: "Entradas"}
+ - {permalink: "/#tickets", text: "Entradas"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
  - {permalink: "/schedule", text: "Agenda"}
@@ -55,8 +56,8 @@ eventDate: "Sábado, 13 de Mayo, 2017"
 typeoutTextValues: '"TensorFlow", "Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-#   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
-   - {permalink: "/schedule", text: "Ya tenemos charlas!"}
+   - {permalink: "/#tickets", text: "Consigue tu entrada"}
+#   - {permalink: "/schedule", text: "Ya tenemos charlas!"}
 
 
 # Rockstar Speakers Block
@@ -101,37 +102,37 @@ ticketsOffers:
 
 -
   name: "Community"
-  price: "15"
+  price: "12"
   priceCurrency: "EUR"
-  ticketsNumber: "25"
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
+  ticketsNumber: "20"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-4/"
   buyButtonText: "Apoya a la comunidad"
   additionalInfo: "Al comprar esta entrada, estas permitiendo que otra persona que no se lo puede permitir acceda a la conferencia."
   additionalInfo2: {permalink: "/blog/communityTickets", text: "Más info"}
   ticketContentList: [ "Porque la comunidad es genial", "Para que nadie se quede sin venir", {permalink: "/blog/communityTickets", text: "Más info"}]
-  validFrom: "2017-01-19T23:59"
-  validThrough: "2017-02-16T12:00"
-  disabled: false
-  soldOut: true
+  validFrom: "2017-04-25T00:00"
+  validThrough: "2017-05-02T23:59"
+  featured: true
+  soldOut: false
   soldOutText: "Agotadas!"
 #  featured: false
   ribbon: "Community"
 
 -
   name: "Early Bird"
-  price: "8"
+  price: "6"
   priceCurrency: "EUR"
   ticketsNumber:
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-3/"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-4/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "¡Relanzamiento!", "Descuentazo", "¡Último lote!"]
+  ticketContentList: [ "Luego te arrepientes", "Descuentazo", "¡Sólo hasta el 2 de Mayo!"]
   disabled: false
-  validFrom: "2017-01-19T23:59"
-  validThrough: "2017-02-12T23:59"
-  soldOut: true
+  validFrom: "2017-04-25T00:00"
+  validThrough: "2017-05-02T23:59"
+  soldOut: false
   soldOutText: "Agotadas!"
-  ribbon: "Últimas"
+  ribbon: "EOI"
   featured: true
 
 -
@@ -143,13 +144,13 @@ ticketsOffers:
   buyButtonText: "Es tu última oportunidad"
   additionalInfo: ""
   ticketContentList: [ "¿Otra vez se te han pasado las Early?","Para los rezagados", "No te quedes sin la tuya"]
-  validFrom: "2017-02-13T01:00"
-  validThrough: "2017-02-16T12:00"
+  validFrom: "2017-05-10T01:00"
+  validThrough: "2017-05-12T12:00"
   disabled: true
-  soldOut: true
+  soldOut: false
   soldOutText: "Aforo completado"
 #  featured: false
-  disabledText: "Aforo completado"
+  disabledText: "A la venta el 10 de Mayo"
 
 
 # Footer

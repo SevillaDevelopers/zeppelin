@@ -11,9 +11,7 @@ Así que para esta edición hemos decidido sacar a la venta un nuevo tipo de ent
 Resumiendo, la cosa funciona así para el comprador:
 
 1. Alguien compra una entrada Community y la recibe en su correo
-1. Además se genera una entrada grátis para quien la necesite:
-  * Si el comprador tiene alguien en mente a quien le quiere dar su entrada pendiente, nos escribe un [correo](mailto:contacto@sevilladevelopers.com) con el email de la persona y nosotros se la hacemos llegar.
-  * Si no, nosotros le haremos llegar la entrada pendiente a la persona siguiente que nos la haya solicitado [por correo](mailto:contacto@sevilladevelopers.com)
+1. Además se genera una entrada grátis para quien la necesite y nosotros nos encargaremos de hacersela llegar a las personas que las necesiten
 3. Nos vemos todos en la conferencia ^_^
 
 Esperamos así no tener más ese tipo de conversación.
