@@ -1,8 +1,14 @@
-#-
-#  group: "Partners"
-#  elements:
-#    - {name: "Evoxon", description: "¡Organízate y Vende!", link: "http://www.evoxon.com/", imageUrl: "evoxon.jpg", width: "360px"}
+-
+  group: "Gold"
+  elements:
+    - {name: "Bitnami", description: "We make installing software incredibly easy… for everyone.", link: "https://bitnami.com", imageUrl: "bitnami.png", width: "360px"}
 #    - {name: "CPIIA", description: "Colegio Profesional de Ingenieros en Informática de Andalucía", link: "http://cpiiand.es/", imageUrl: "logo_CPIIA.jpg", width: "360px"}
+
+-
+  group: "Lite"
+  elements:
+    - {name: "Rojomorgan", description: "We are a digital Agency focused on cooking with Drupal", link: "https://rojomorgan.com", imageUrl: "rojomorgan.png", width: "200px"}
+
 -
   group: "Colaboran"
   elements:
