@@ -46,9 +46,9 @@
   id: 6
   name: "José Manuel"
   surname: "Pereira"
-  company: "JMPergar"
-  title: "Android Developer"
-  bio: "Android Developer and Kotlin Functional Programming Padawan. Con aproximadamente ocho años en el mundo del desarrollo de los cuales más de cinco dedicado al mundo del desarrollo móvil, pasando por empresas como Redbooth o Jobandtalent, actualmente me encuentro experimentando nuevos paradigmas y tecnologías."
+  company: "Seedtag"
+  title: "Backend Engineer"
+  bio: "Android Developer and Kotlin Functional Programming Padawan. Con aproximadamente ocho años en el mundo del desarrollo de los cuales más de cinco dedicado al mundo del desarrollo móvil, pasando por empresas como Redbooth o Jobandtalent, actualmente me encuentro experimentando nuevos paradigmas y tecnologías como backend engineer en Seedtag."
   thumbnailUrl: jmpergar.jpg
   rockstar: true
   social:
@@ -57,7 +57,7 @@
 -
   id: 7
   name: "Isa"
-  surname: "Mñ Vilacides"
+  surname: "M. Vilacides"
   company: "CloudBees"
   title: "Software Testing & Quality Assurance"
   bio: "Isa started her career as a developer, but ended up managing Quality Engineering teams which she has continued doing for the last nine years. Since then she has helped different companies to reach continuous
