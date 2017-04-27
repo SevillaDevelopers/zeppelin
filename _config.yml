@@ -89,8 +89,8 @@ locationTbc: "Por confirmar"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "svqdc"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "SVQDC"
+twitterFeed: "http://twitersdc.000webhostapp.com/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizan"
@@ -160,7 +160,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/search?q=%23SVQDC", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=SevillaDevelope", icon: "twitter"}
  - {link: "https://www.facebook.com/groups/sevilladevelopers/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
