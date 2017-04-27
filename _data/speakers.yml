@@ -66,3 +66,14 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/vilacides"}
+-
+  id: 8
+  name: "Ricardo"
+  surname: "Varela"
+  company: "Localistico"
+  title: "Founder"
+  bio: "Founder at Localistico"
+  thumbnailUrl: ricardo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/phobeo"}
