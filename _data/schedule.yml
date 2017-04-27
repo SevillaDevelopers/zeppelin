@@ -41,20 +41,20 @@
     	sessionIds: [005]
     }
     - {
-    	startTime: "13:30",
-    	endTime: "14:30",
-    	sessionIds: [308]
+    	startTime: "13:35",
+    	endTime: "14:25",
+    	sessionIds: [007]
     }
     - {
-    	startTime: "14:30",
-    	endTime: "15:20",
-    	sessionIds: [309]
+    	startTime: "14:25",
+    	endTime: "15:25",
+    	sessionIds: [308]
     }
     - {
 
     		startTime: "15:25",
     	endTime: "16:15",
-    	sessionIds: [007]
+    	sessionIds: [309]
     }
     - {
     	startTime: "16:20",

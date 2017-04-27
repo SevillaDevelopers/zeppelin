@@ -58,7 +58,7 @@
   complexity: "Intermedia"
 -
   id: 004
-  title: "Tips & tricks to make an app adaptable to change"
+  title: "Being agile, Tuenti style"
   description: "At Tuenti, we have to change a lot in a very short time. Redesigning the app and adapting it to the market every time, without loosing quality and doing it fast. With this talk, I'll show you all the things we've learned during that. And the good thing is that those tricks can be applied every where, not only in mobile!"
   subtype: presentation
   speakers: [5]
