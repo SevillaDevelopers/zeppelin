@@ -90,7 +90,7 @@ locationTbc: "Por confirmar"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "SVQDC"
-twitterFeed: "http://twitersdc.000webhostapp.com/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://twitersdc.000webhostapp.com/searchjson.php?q=%23SVQDC&c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizan"
