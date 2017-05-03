@@ -1,7 +1,6 @@
 <!-- Begin Location Section -->
 <section id="location-map" class="location-map">
-    <div id="canvas-map" class="canvas-map"></div>
-    <div class="content-wrapper">
+    <div class="content-wrapper" style="z-index:10000">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
@@ -20,7 +19,7 @@
                         </li>
                     </ul>
                 </div>
-                <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
+                <a href="http://www.openstreetmap.org/way/78144245" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
@@ -28,5 +27,6 @@
             </div>
         </div>
     </div>
+    <div id="canvas-map" class="canvas-map"></div>
 </section>
 <!-- End Location Section -->
