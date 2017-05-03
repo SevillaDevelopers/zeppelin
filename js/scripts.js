@@ -1,11 +1,32 @@
 (function($) {
     $(document).ready(function() {
     //Leaflet
-    var mymap = L.map('canvas-map').setView([37.40470, -6.00614], 16);
+    var mymap = L.map('canvas-map', {
+         layers:[Spain_PNOA_Ortoimagen]
+      }
+    ).setView([37.40470, -6.00614], 16);
+
+    L.marker([37.404809, -6.006461]).addTo(mymap);
+
     L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
         maxZoom: 18, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
-      }).addTo(mymap);
-    L.marker([37.40470, -6.0061]).addTo(mymap);
+    }).setOpacity(0.8).addTo(mymap);
+
+
+    L.polyline([
+            [37.403592,-6.01],
+            [37.403325, -6.007700],
+            [37.404561, -6.007330],
+            [37.404561, -6.007],
+            [37.404809, -6.007]
+            ],
+            {
+                color: 'red',
+                weight: 10,
+                opacity: .4,
+                lineJoin: 'round'
+            }
+        ).addTo(mymap);
 
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
