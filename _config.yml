@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/schedule", text: "Agenda"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
+ - {permalink: "/cod/", text: "CoC"}
 
 # Hero Block
 heroImage: "hero.jpg"

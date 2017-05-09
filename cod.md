@@ -5,7 +5,7 @@ permalink: /cod/
 isStaticPost: true
 ---
 
-__Esta política de "No seas idiota" es una version más corta y relajada de [esta](http://meta.wikimedia .org/wiki/Don%27t_be_a_dick).__
+__Esta política de "No seas idiota" es una version más corta y relajada de [esta](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).__
 
 
 En el grupo de SevillaDevelopers nos gusta pensar que respetamos a todas las personas que a su vez respeten a las demás. Eso quiere decir que no vamos a permitir comportamiento idiota en este evento. Como sabemos que la definición
@@ -21,4 +21,5 @@ Hagamos de este evento algo increíble ;-)
 ###### Contacts:
 
 - Israel Boza, [contacto@sevilladevelopers.com](mailto:contacto@sevilladevelopers.com)
-- DavidJGuru, [davidjguru@gmail.com](davidjguru@gmail.com)
+- David Rodriguez Gonzalez, [correo](mailto:davidrg131092@gmail.com)
+- María Arias de Reyna, [correo](mailto:delawen@gmail.com)
