@@ -49,9 +49,9 @@
   complexity: "Intermedia"
 -
   id: 003
-  title: "Introducción a la arquitectura de Tensorflow y caso de uso"
-  description: "Aplicación de redes neuronales y caso de uso.
-                 Ingeniería inversa : sistema límbico"
+  title: "TensorFlow for Android"
+  description: "TensorFlow sigue con paso firme y no solo se queda en la nube si no que llega a nuestros dispositivos. En esta charla veremos como usar la libreria, como afecta a nuestro teléfono y que limitaciones tiene en este nuevo entorno.
+                El matching intelligence está ahora en tu mano!"
   subtype: presentation
   speakers: [4]
   language: Español

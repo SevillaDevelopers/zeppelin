@@ -19,17 +19,17 @@
 
 -
   id: 4
-  name: "Gema"
-  surname: "Parreño Piqueras"
-  company: "BBVA | ETSAM"
-  title: "Data Scientist"
-  bio: "Gema Parreño se centra en el diseño de productos digitales enfocada en Inteligencia Artificial desde hace dos años con experiencia en procesamiento natural del lenguaje y visión artificial .
-        Desarrolla redes neuronales para proyectos de ingeniería inversa."
-  thumbnailUrl: gema.jpg
+  name: "Jorge"
+  surname: "Barroso"
+  company: "Karumi"
+  title: "Cofounder & Android Expert at Karumi"
+  bio: "Jorge Barroso es Android expert en Karumi y Android GDE.
+        Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de Android. Ha participado en varios proyectos móviles de la compañía como j2me, Blackberry y Android. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
+  thumbnailUrl: jorge.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/SoyGema"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gemaparreno/"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
+    - {name: "site", link: "http://www.karumi.com/"}
 -
   id: 5
   name: "Fina"
