@@ -18,9 +18,9 @@
 							{% endif %}
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								<span class="ticket-additional-info">Disponibles hasta el {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} </span>
+								<span class="ticket-additional-info">Disponibles hasta el {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }}.</span>
 								{% if ticketsOffer.ticketsNumber != null %}
-                                <span class="ticket-additional-info">o hasta que se agoten las {{ ticketsOffer.ticketsNumber }} entradas </span>
+									<span class="ticket-additional-info">O hasta que se agoten las {{ ticketsOffer.ticketsNumber }} entradas. </span>
                                 {% endif %}
                             {% endif %}
                         </div>

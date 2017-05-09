@@ -109,8 +109,8 @@ ticketsOffers:
   buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-4/"
   buyButtonText: "Apoya a la comunidad"
   additionalInfo: "Al comprar esta entrada, estas permitiendo que otra persona que no se lo puede permitir acceda a la conferencia."
-  additionalInfo2: {permalink: "/blog/communityTickets", text: "Más info"}
-  ticketContentList: [ "Porque la comunidad es genial", "Para que nadie se quede sin venir", {permalink: "/blog/communityTickets", text: "Más info"}]
+  additionalInfo2: {permalink: "/blog/communityTickets", text: "Más info."}
+  ticketContentList: [ "Porque la comunidad es genial.", "Para que nadie se quede sin venir.", {permalink: "/blog/communityTickets", text: "Más info."}]
   validFrom: "2017-04-25T00:00"
   validThrough: "2017-05-02T23:59"
 #  featured: true
@@ -127,7 +127,7 @@ ticketsOffers:
   buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-4/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "Gracias a Bitnami", "Son las últimas", "Hasta fin de existencias"]
+  ticketContentList: [ "Gracias a Bitnami.", "Son las últimas.", "Hasta fin de existencias."]
   disabled: false
   validFrom: "2017-05-4T00:00"
   validThrough: "2017-05-11T23:59"
@@ -144,7 +144,7 @@ ticketsOffers:
   buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopers-conf-4/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "Luego te arrepientes", "Descuentazo", "¡Sólo hasta el 2 de Mayo!"]
+  ticketContentList: [ "Luego te arrepientes.", "Descuentazo.", "¡Sólo hasta el 2 de Mayo!."]
   validFrom: "2017-04-25T00:00"
   validThrough: "2017-05-02T23:59"
   soldOut: true
@@ -190,9 +190,9 @@ discusShortName: "sdc4"
 # About
 aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
 aboutCatch: "Este evento de eventos nace desde el grupo de <a href='https://www.facebook.com/groups/sevilladevelopers/'>SevillaDevelopers en Facebook</a>
-            como una iniciativa para fomentar tanto las distintas comunidades tecnológicas de Sevilla como tambien para darnos oportunidad de, durante un día, ver cómo resuelven sus
+            como una iniciativa para fomentar tanto las distintas comunidades tecnológicas de Sevilla como también para darnos oportunidad de, durante un día, ver cómo resuelven sus
             retos en otras plataformas o lenguajes."
-aboutIt: "Un solo track para poder aprovechar al maximo las conversaciones entre desarrolladores y desarrolladoras de distintas areas"
+aboutIt: "Un solo track para poder aprovechar al máximo las conversaciones entre desarrolladores y desarrolladoras de distintas áreas."
 
 
 # Logistics Find Way Block
