@@ -88,6 +88,12 @@ mapCenterCoordinates: "37.404639,-6.0087697"
 mapMobileCenterCoordinates: "37.404639,-6.0087697"
 locationTbc: "Por confirmar"
 
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "SVQDC"
+twitterFeed: "https://twitersdc.000webhostapp.com/searchjson.php?q=%23SVQDC&c=10&cache_interval=8000"
+
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Patrocinan"
