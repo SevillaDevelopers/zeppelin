@@ -2,6 +2,7 @@
   group: "Gold"
   elements:
     - {name: "Bitnami", description: "We make installing software incredibly easy… for everyone.", link: "https://bitnami.com", imageUrl: "bitnami.png", width: "360px"}
+    - {name: "William Hill", description: "The HOME of betting", link: "https://www.linkedin.com/company-beta/11792/", imageUrl: "willhill.png", width: "360px"}
 #    - {name: "CPIIA", description: "Colegio Profesional de Ingenieros en Informática de Andalucía", link: "http://cpiiand.es/", imageUrl: "logo_CPIIA.jpg", width: "360px"}
 
 -
