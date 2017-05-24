@@ -23,3 +23,50 @@
         }
     }
 }
+.organizers-sprite {
+    background-image: url(/img/organizers/organizers-sprite2.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-gdg_sevilla {
+    width: 120px;
+    height: 78px;
+    background-position: -5px -5px;
+}
+
+.sprite-geoinquietos {
+    width: 115px;
+    height: 120px;
+    background-position: -135px -5px;
+}
+
+.sprite-logo14 {
+    width: 120px;
+    height: 120px;
+    background-position: -5px -135px;
+}
+
+.sprite-nsc_sevng {
+    width: 120px;
+    height: 120px;
+    background-position: -135px -135px;
+}
+
+.sprite-php {
+    width: 120px;
+    height: 80px;
+    background-position: -260px -5px;
+}
+
+.sprite-svqjug {
+    width: 100px;
+    height: 180px;
+    background-position: -265px -95px;
+}

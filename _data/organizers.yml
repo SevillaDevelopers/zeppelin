@@ -1,9 +1,9 @@
 - 
 #  group: "Comunidades que colaboran"
   elements: 
-    - {name: "SVQJUG", link: "http://www.meetup.com/SVQJUG", imageUrl: "svqjug.png", width: "120px"}
-    - {name: "NSCoder Night Sevilla", link: "http://nscoder-sev.tumblr.com/", imageUrl: "nsc_sevng.png", width: "120px"}
-    - {name: "GDG Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png", width: "120px"}
-    - {name: "PHP Sevilla", link: "http://www.meetup.com/PHP-Sevilla/", imageUrl: "php.jpeg", width: "120px"}
-    - {name: "GeoInquietos", link: "https://www.meetup.com/es-ES/Geoinquietos-Sevilla/", imageUrl: "geoinquietos.jpeg", width: "120px"}
-    - {name: "Ping a Programadoras", link: "https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/", imageUrl: "logo14.png", width: "120px"}
+    - {name: "SVQJUG", link: "http://www.meetup.com/SVQJUG", spriteId: "sprite-svqjug", width: "120px"}
+    - {name: "NSCoder Night Sevilla", link: "http://nscoder-sev.tumblr.com/", spriteId: "sprite-nsc_sevng", width: "120px"}
+    - {name: "GDG Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", spriteId: "sprite-gdg_sevilla", width: "120px"}
+    - {name: "PHP Sevilla", link: "http://www.meetup.com/PHP-Sevilla/", spriteId: "sprite-php", width: "120px"}
+    - {name: "GeoInquietos", link: "https://www.meetup.com/es-ES/Geoinquietos-Sevilla/", spriteId: "sprite-geoinquietos", width: "120px"}
+    - {name: "Ping a Programadoras", link: "https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/", spriteId: "sprite-logo14", width: "120px"}
