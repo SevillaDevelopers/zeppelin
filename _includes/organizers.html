@@ -8,8 +8,8 @@
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    <a href="{{ element.link }}" target="_blank" class="organizers-sprite {{element.spriteId}}">
+                        <p class=".organizers-sprite .{{element.spriteId}}"></p>
                     </a>
                 </li>
                 {% endfor %}
