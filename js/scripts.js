@@ -31,8 +31,6 @@
 
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
-            $('#loading-animation').fadeOut();
-            $('#preloader').delay(350).fadeOut(800);
             initGooglePlus();
             equalheight('.same-height');
         });
@@ -294,15 +292,5 @@
             }
         }
     });
-
-    //Google plus
-    function initGooglePlus() {
-        var po = document.createElement('script');
-        po.type = 'text/javascript';
-        po.async = true;
-        po.src = 'https://apis.google.com/js/platform.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(po, s);
-    }
 
 })(jQuery);
